@@ -1,1 +1,2 @@
-# C41RV_SpeedRacer_StudentActivity-main-C41RV_SpeedRacer_StudentActivity-m
+# C41RV_SpeedRacer_StudentActivity
+Student Activity
